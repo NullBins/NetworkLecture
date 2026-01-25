@@ -7,3 +7,6 @@
 # [ *Project-1* ] <*🐧Linux Environments*>
 - **평가 문제** : [Linux-Environments-1-2-Grade](https://choits.notion.site/Linux-Environments-1-2-2e9a4a4cd7a780f1ba7ccc802c3a8701)
 - **문제 풀이** : [Solution](https://github.com/NullBins/NetworkLecture/blob/main/Solutions/Linux_Environments.pdf)
+
+# [ *Project-3* ] <*🗂️Network Environments*>
+- **평가 문제** : [Network-Environments-1-2-Grade](https://choits.notion.site/Network-Environments-1-2-2efa4a4cd7a7809a87facf240abe2e66)
